@@ -5,6 +5,8 @@ VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatters", "DesignPatters\DesignPatters.csproj", "{3CD75B8B-16DA-4023-AF5D-913C21915BFC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "单例模式", "单例模式\单例模式.csproj", "{31A34D44-5A66-428E-A942-49D5FCD38049}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{3CD75B8B-16DA-4023-AF5D-913C21915BFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3CD75B8B-16DA-4023-AF5D-913C21915BFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3CD75B8B-16DA-4023-AF5D-913C21915BFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31A34D44-5A66-428E-A942-49D5FCD38049}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31A34D44-5A66-428E-A942-49D5FCD38049}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31A34D44-5A66-428E-A942-49D5FCD38049}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31A34D44-5A66-428E-A942-49D5FCD38049}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
